@@ -47,6 +47,42 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jen",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1559244390-best-toys-2019-walking-buzz-1559244376.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Gen",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1559244390-best-toys-2019-walking-buzz-1559244376.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Hen",
+      "image": "https://i.ytimg.com/vi/AUWznwlyfO0/maxresdefault.jpg",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Ken",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/f/f7/63E4CDF2-2C21-4284-AA1F-E78A334DF7D8.jpeg/revision/latest?cb=20181207152430",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Barbie",
+      "image": "https://images.fun.com/products/59813/2-1-110588/toy-story-4-barbie-alt-1.jpg",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "Forky",
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/1230000442833",
+      "likes": 0,
+      "id": 18
     }
   ]
 }
